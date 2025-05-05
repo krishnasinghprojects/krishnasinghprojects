@@ -75,12 +75,10 @@
 <br>
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghprojects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krishna Singh GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinghprojects&theme=radical&hide_border=true" alt="Krishna Singh GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghprojects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krishna Singh GitHub Stats" width="395" height="auto"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinghprojects&theme=radical&hide_border=true" alt="Krishna Singh GitHub Streak" width="395" height="auto" />
 </p>
-
 <br>
 
 ## 📂 My Projects
