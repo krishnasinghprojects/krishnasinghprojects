@@ -64,7 +64,7 @@
 
 ## 📜 Certificates & Badges
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge1.jpg" alt="Networking Basics Badge" width="160"/>
   <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge2.jpg" alt="Networking Devices and Initial Configuration Badge" width="160"/>
   <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge3.jpg" alt="Addressing Schemes Badge" width="160"/>
@@ -76,8 +76,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghprojects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krishna Singh GitHub Stats" width="395" height="auto"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinghprojects&theme=radical&hide_border=true" alt="Krishna Singh GitHub Streak" width="395" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghprojects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krishna Singh GitHub Stats" width="800" height="auto"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinghprojects&theme=radical&hide_border=true" alt="Krishna Singh GitHub Streak" width="800" height="auto" />
 </p>
 <br>
 
