@@ -78,9 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghprojects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krishna Singh GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasinghprojects&theme=radical&hide_border=true" alt="Krishna Singh GitHub Streak" />
-  <br/>
 </p>
 
 <br>
