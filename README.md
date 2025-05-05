@@ -65,11 +65,11 @@
 ## 📜 Certificates & Badges
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge1.jpg" alt="Networking Basics Badge" width="180"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge2.jpg" alt="Networking Devices and Initial Configuration Badge" width="180"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge3.jpg" alt="Addressing Schemes Badge" width="180"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge4.jpg" alt="Network Support and Security Badge" width="180"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certificate1.jpg" alt="Certificate 1" width="180"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge1.jpg" alt="Networking Basics Badge" width="160"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge2.jpg" alt="Networking Devices and Initial Configuration Badge" width="160"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge3.jpg" alt="Addressing Schemes Badge" width="160"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Badge4.jpg" alt="Network Support and Security Badge" width="160"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certificate1.jpg" alt="Certificate 1" width="160"/>
   </p>
 
 <br>
