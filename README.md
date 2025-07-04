@@ -68,13 +68,10 @@
 ## 📜 Certificates & Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge1.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge2.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge3.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge4.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge5.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate1.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate1.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate2.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate3.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate4.jpg" width="200"/>
   </p>
 
 <br>
