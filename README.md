@@ -123,4 +123,7 @@
 
 <p align="center">
   © 2025 Krishna Singh. All Rights Reserved.
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnasinghprojects&style=flat-square&color=blue&label=Profile+Views" alt="GitHub Views" style="filter: drop-shadow(0 0 5px rgba(0, 191, 255, 0.7)) brightness(1.2); border-radius: 8px; /* For a subtle glassy edge */">
+</p>
 </p>
