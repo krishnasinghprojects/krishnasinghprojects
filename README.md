@@ -65,7 +65,7 @@
 
 <br>
 
-## 📜 Certificates & Badges
+## 📜 Certificates 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate1.jpeg" width="260"/>
@@ -75,6 +75,20 @@
   <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate5.jpg" width="260"/>
   <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate6.jpg" width="260"/>
   </p>
+
+  <br>
+
+## 🏅 Badges
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge1.png" width="175"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge2.png" width="175"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge3.png" width="175"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge4.png" width="175"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge5.png" width="175"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge6.png" width="175"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge7.png" width="175"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge8.png" width="175"/>
+</p>
 
 <br>
 
