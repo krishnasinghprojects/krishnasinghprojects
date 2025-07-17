@@ -68,12 +68,13 @@
 ## 📜 Certificates 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate1.jpeg" width="260"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate2.jpg" width="260"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate3.jpg" width="260"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate4.jpg" width="260"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate5.jpg" width="260"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate6.jpg" width="260"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate1.jpeg" width="240"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate2.jpg" width="240"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate3.jpg" width="240"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate4.jpg" width="240"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate5.jpg" width="240"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate6.jpg" width="240"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate7.png" width="240"/>
   </p>
 
   <br>
