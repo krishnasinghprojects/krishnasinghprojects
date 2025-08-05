@@ -102,23 +102,23 @@
 
 ## 📂 My Projects
 
-1.  **Portfolio** **[Visit ➔](https://krishnasinghprojects.github.io/Portfolio/)**
+1.  **Portfolio** **[Visit ➔](https://krishnasinghprojects.github.io/Portfolio)**
     * Showcases my projects, skills, and experiences in a responsive layout.
     * Tech Stack: HTML, CSS, JavaScript
 
-3.  **Passvault** **[Visit ➔](https://krishnasinghprojects.github.io/Passvault/)**
+3.  **Passvault** **[Visit ➔](https://krishnasinghprojects.github.io/Passvault)**
     * Minimalist password manager web app with secure login.
     * Tech Stack: HTML, CSS, JavaScript
 
-4.  **Academic Archive** **[Visit ➔](https://krishnasinghprojects.github.io/AcademicArchive/)**
+4.  **Academic Archive** **[Visit ➔](https://krishnasinghprojects.github.io/AcademicArchive)**
     * Organizes educational files (notes, PDFs, etc.) with pinning and dark mode.
     * Tech Stack: HTML, CSS, JavaScript
 
-5.  **TypeQuest** **[Visit ➔](https://krishnasinghprojects.github.io/TypeQuest/)**
+5.  **TypeQuest** **[Visit ➔](https://krishnasinghprojects.github.io/TypeQuest)**
     * Interactive typing app to practice, track WPM, and improve accuracy.
     * Tech Stack: Vite, React, CSS3, JavaScript
 
-6.  **Express PDF** **[Visit ➔](https://krishnasinghprojects.github.io/ExpressPDF/)**
+6.  **Express PDF** **[Visit ➔](https://krishnasinghprojects.github.io/ExpressPDF)**
     * Fast, offline image-to-PDF tool with drag-and-drop and presets.
     * Tech Stack: HTML, CSS, JavaScript
 
