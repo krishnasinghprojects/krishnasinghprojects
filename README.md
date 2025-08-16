@@ -82,18 +82,19 @@
 
 ## 🏅 Badges
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge1.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge2.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge3.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge4.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge5.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge6.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge7.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge8.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge9.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge10.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge11.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge12.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge1.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge2.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge3.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge4.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge5.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge6.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge7.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge8.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge9.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge10.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge11.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge12.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge13.png" width="110"/>
 </p>
 
 <br>
