@@ -63,48 +63,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-<br>
-
-## 📜 Certificates 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate1.jpeg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate2.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate3.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate4.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate5.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate6.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate7.png" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate8.png" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate9.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate10.png" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate11.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate12.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate13.jpg" width="150"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Certificate14.jpeg" width="150"/>
-  </p>
-
-  <br>
-
-## 🏅 Badges
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge1.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge2.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge3.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge4.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge5.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge6.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge7.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge8.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge9.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge10.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge11.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge12.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/krishnasinghprojects/Portfolio/refs/heads/main/Certifications/Badge13.png" width="110"/>
-</p>
-
-<br>
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghprojects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krishna Singh GitHub Stats" width="800" height="auto"/>
