@@ -67,12 +67,6 @@
   </p>
 </div>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnasinghprojects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krishna Singh GitHub Stats" width="800" height="auto"/>
-</p>
-<br>
-
 ## 📂 My Projects
 
 1.  **Full Stack Multimodal A.I. Notes Generator And Analyser**
