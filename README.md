@@ -14,7 +14,7 @@
 #### 💡 Passionate about **Full-Stack Web/Mobile Development** and integrating AI functionalities using APIs like Gemini, OpenAI, and Ollama.
 #### 👨‍💻 Skilled in the **MERN Stack**, **React Native**, **Cloud Deployment (AWS)**, and **Containerization (Docker)**.
 #### 💬 Experienced in programming languages like **Python, JavaScript, TypeScript, C, and Kotlin**.
-#### 📫 Reach me via Email: **krishna@krishnasingh.live**
+#### 📫 Reach me via Email: **krishnasinghprojects@gmail.com**
 
 <br>
 
@@ -93,6 +93,10 @@
   <a href="https://www.reddit.com/user/krishnasinghprojects"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
   <a href="https://www.instagram.com/krishnasinghprojects"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://discordapp.com/users/1351651268761882644"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://steamcommunity.com/id/krishnasingh/">
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+
 </p>
 
 <br>
