@@ -8,15 +8,7 @@
 </a>
 
 <br>
-<br>
 
-<p align="center">
-<a href="mailto:krishnasinghprojects@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/krishnasinghprojects"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/krishnasinghprojects"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-</p>
 
 </div>
 <div align="center">
