@@ -1,109 +1,234 @@
 <div align="center">
-  <h1>👋 Hi, I’m Krishna Singh</h1>
-  <p>
-    <i>A passionate <strong>Software Developer and AI Integration Specialist</strong> who loves crafting beautiful interfaces and writing clean code.</i>
-  </p>
-  <a href="https://www.krishnasingh.live" target="_blank"><strong>Explore My Personal Portfolio</strong></a>
-</div>
+  
+# Krishna Singh
+### SOFTWARE ENGINEER (FULL STACK & DISTRIBUTED SYSTEMS)
 
-<br>
-
-## 🚀 About Me
-
-#### 🎓 Engineering student at **Babu Banarasi Das University** (2024-2028), specializing in Computer Science and Artificial Intelligence.
-#### 💡 Passionate about **Full-Stack Web/Mobile Development** and integrating AI functionalities using APIs like Gemini, OpenAI, and Ollama.
-#### 👨‍💻 Skilled in the **MERN Stack**, **React Native**, **Cloud Deployment (AWS)**, and **Containerization (Docker)**.
-#### 💬 Experienced in programming languages like **Python, JavaScript, TypeScript, C, and Kotlin**.
-#### 📫 Reach me via Email: **krishnasinghprojects@gmail.com**
-
-<br>
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-  <h3>Full-Stack (MERN)</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" />&nbsp;
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />&nbsp;
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
-
-  <h3>AI & Cloud</h3>
-  <p>
-      <img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />&nbsp;
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
-      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  </p>
-  <p>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-      <img src="https://img.shields.io/badge/N8N-1A8257?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
-  </p>
-
-  <h3>Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </p>
-
-  <h3>Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />&nbsp;
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  </p>
-</div>
-
-## 📂 My Projects
-
-1.  **Full Stack Multimodal A.I. Notes Generator And Analyser**
-    * Engineered a Full-Stack AI learning platform using the Google Gemini API to analyze, convert, and query content from PDFs, audio, and images.
-    * Developed a multi-format AI engine on a Node.js/Express backend, using Multer for robust file handling.
-    * Implemented a context-aware AI chat interface with React for real-time Q&A with processed documents.
-    * Designed an automated quiz system that generates interactive assessments from source material.
-
-2.  **Ecosync Nexus - Full Stack Smart Home Management System with IOT**
-    * Built an end-to-end smart home ecosystem during the 30-hour Sustainovation 2025 hackathon.
-    * Architected a secure RESTful API using Node.js and Express with Firebase for user authentication.
-    * Developed C++ firmware for an ESP32 microcontroller to retrofit existing appliances with smart capabilities.
-    * Integrated the Google Gemini API on the backend for an AI-powered Autonomous Mode to optimize energy savings.
-
-<br>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:krishna@krishnasingh.live"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/krishnasinghprojects/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/krishnasinghprojects"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://devpost.com/krishnasinghprojects"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>&nbsp;
-  <a href="https://www.reddit.com/user/krishnasinghprojects"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
-  <a href="https://www.instagram.com/krishnasinghprojects"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://discordapp.com/users/1351651268761882644"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://steamcommunity.com/id/krishnasingh/">
-  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+<a href="https://www.krishnasingh.live">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3A5FCD?style=for-the-badge" alt="Portfolio">
 </a>
 
+<br>
+<br>
+
+<p align="center">
+<a href="mailto:krishnasinghprojects@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/krishnasinghprojects"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/krishnasinghprojects"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+</p>
+
+</div>
+<div align="center">
+  
+# About Me
+
+I'm a Computer Science & Artificial Intelligence undergraduate student at Babu Banarasi Das University.
+<br>
+I build distributed systems, backend infrastructure, AI-powered applications, networking tools, and full-stack products. My interests span system architecture, cloud infrastructure, autonomous AI workflows, real-time communication systems, and developer tooling.
+
+</div>
+
+<div align="center">
+<h1>Tech Stack</h1>
+
+<h3>Languages</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+<h3>Frontend & Mobile</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+<h3>Backend & APIs</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+</p>
+
+<h3>Databases</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-3949AB?style=for-the-badge" />
+</p>
+
+<h3>AI & Automation</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7E57C2?style=for-the-badge" />
+</p>
+
+<h3>Cloud & DevOps</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<h3>Networking & Distributed Systems</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-455A64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VNC-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP/IP-546E7A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-546E7A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-5E35B1?style=for-the-badge" />
+</p>
+
+<h3>Authentication & Security</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-DB4437?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-F57C00?style=for-the-badge" />
+</p>
+
+<h3>IoT</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensor_Integration-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Actuator_Control-FFB300?style=for-the-badge&logoColor=black" />
+</p>
+
+</div>
+
+<div align="center">
+
+# Featured Projects
+
+</div>
+
+### Cyberlife
+
+**Distributed Modular Infrastructure & Remote Management Ecosystem**
+
+Cyberlife is a distributed hub-and-spoke infrastructure management platform designed for homelabs and self-hosted cloud environments.
+
+#### Highlights
+
+- Architected a distributed Node.js infrastructure using a modular star-topology design
+- Developed secure remote administration capabilities through SSH, VNC, and command execution pipelines
+- Built real-time telemetry and monitoring systems using WebSockets
+- Integrated an AI orchestration layer powered by Ollama and Local LLMs
+- Implemented Docker lifecycle management and Cloudflare tunnel automation
+- Developed both a high-performance web dashboard and a Unity 3D management client
+- Connected physical ESP32 hardware with virtual environments through a unified management layer
+
+#### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 </p>
 
 <br>
 
-<p align="center">
-  © 2025 Krishna Singh. All Rights Reserved.
+### EcoSync Nexus
+
+**AI-Powered Smart Home Management Platform**
+
+Developed during Sustainovation 2025.
+
+#### Highlights
+
+- Built a complete smart-home ecosystem from backend to firmware
+- Developed a React Native mobile application for remote appliance management
+- Engineered a secure Node.js and Express backend
+- Created ESP32 firmware in C++ for smart-switch integration
+- Implemented Firebase Authentication and user management
+- Integrated Gemini-powered automation workflows
+- Built real-time energy monitoring and analytics dashboards
+- Added budget tracking and intelligent energy optimization systems
+
+#### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnasinghprojects&style=flat-square&color=blue&label=Profile+Views" alt="GitHub Views" />
-</p>
+
+
+<div align="center">
+
+# Certifications & Achievements
+
+</div>
+
+- Google Gen AI Academy 2.0 Certification
+- Sustainovation 2025 — National Finalist (Top 30)
+- Front End Battle 2.0 — Finalist
+- IIT Bhubaneswar Hackathon — Finalist
+- HackOrbit National-Level Hackathon — Finalist
+- Smallest AI Hackathon — Finalist
+
+
+<div align="center">
+
+# Current Focus
+
+</div>
+
+- Distributed Systems
+- Infrastructure Engineering
+- AI Agent Architectures
+- Backend Development
+- Cloud Native Applications
+- System Design
+
+
+<div align="center">
+
+# Connect
+
+<p align="center"><a href="mailto:krishnasinghprojects@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/krishnasinghprojects"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/krishnasinghprojects/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+
+</div>
+
+
+<div align="center">
+
+Building systems that scale beyond a single machine.
+
+</div>
