@@ -184,19 +184,6 @@ Developed during Sustainovation 2025.
 
 <div align="center">
 
-# Certifications & Achievements
-
-</div>
-
-- Google Gen AI Academy 2.0 Certification
-- Sustainovation 2025 — National Finalist (Top 30)
-- Front End Battle 2.0 — Finalist
-- IIT Bhubaneswar Hackathon — Finalist
-- HackOrbit National-Level Hackathon — Finalist
-- Smallest AI Hackathon — Finalist
-
-
-<div align="center">
 
 # Current Focus
 
